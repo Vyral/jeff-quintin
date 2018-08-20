@@ -20,7 +20,7 @@ youtube_code: iUoHbwvsvL8
 
 {% include youtube.html %}
 
-Today’s business spotlight is on Bungalow Bowls. If you’ve never had an<br>acai bowl before, you’re in for a treat.
+<center>Today’s business spotlight is on Bungalow Bowls. If you’ve never had anacai bowl before, you’re in for a treat.</center>
 
 I’m headed back into town today for another great business spotlight. **Today we’re taking a closer look at Bungalow Bowls, the newest, hottest lunch spot here in Ocean City**.
 
