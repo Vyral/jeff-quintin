@@ -10,7 +10,7 @@ custom_links:
   - title: Free Newsletter
     url: /subscribe/
   - title: Get Interviewed
-    url: /
+    url: /get-interviewed/
 client:
   name: Jeff Quintin
   title:
@@ -53,7 +53,7 @@ third_sidebar_CTA:
     CTA_title3: "Are you a business owner?"
     CTA_text3: "Would you like to be interviewed?"
     CTA_link_text3: "Set Up an Interview"
-    CTA_url3: /
+    CTA_url3: /get-interviewed/
 
 lender:
   show_section: false
