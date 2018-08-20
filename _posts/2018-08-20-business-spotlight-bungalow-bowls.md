@@ -20,11 +20,13 @@ youtube_code: iUoHbwvsvL8
 
 {% include youtube.html %}
 
-<center>Today’s business spotlight is on Bungalow Bowls. If you’ve never had anacai bowl before, you’re in for a treat.</center>
+<center><em>Today&rsquo;s business spotlight is on Bungalow Bowls. If you&rsquo;ve never had an acai bowl before, you&rsquo;re in for a treat.</em></center>
+
+&nbsp;
 
 I’m headed back into town today for another great business spotlight. **Today we’re taking a closer look at Bungalow Bowls, the newest, hottest lunch spot here in Ocean City**.
 
-I joined co-owners Erin and Brooke, who fell in love with Acai bowls on the west coast and decided to bring that here to Ocean City, for a demonstration of how they make their “Electric Feel” bowl.
+I joined co-owners Erin and Brooke, who fell in love with acai bowls on the west coast and decided to bring that here to Ocean City, for a demonstration of how they make their “Electric Feel” bowl.
 
 The Electric Feel base starts with one fresh banana, two cups of frozen pineapple, and pitaya, which they put in a blender. Next, they add the “blue magic,” a spirulina extract which is great for your skin and gives you natural energy without any harsh taste. Then, they stir it up and top the base with granola, three different fresh fruits, and a honey drizzle on top. I picked blueberries, strawberries, and fresh pineapple for my bowl.
 
