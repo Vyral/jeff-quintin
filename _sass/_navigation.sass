@@ -1,8 +1,8 @@
 .navbar-andross
-	border-bottom: 2px solid $theme
+	border-bottom: 2px solid $brand
 	border-radius: 0
 	min-height: 52px
-	background: #ffffff
+	background: $theme
 	width: 100%
 	overflow: hidden
 
@@ -21,7 +21,7 @@
 
 .navbar-left>li>a
 	background: transparent
-	color: black
+	color: white
 	// padding: 1.3rem 2rem
 	text-transform: capitalize
 	font-size: 2rem
@@ -45,7 +45,7 @@
 
 .cta
 	background: transparent
-	color: $button-text
+	color: $brand
 	// padding: 1.3rem 2rem
 	text-transform: capitalize
 	font-size: 2rem
@@ -74,6 +74,31 @@
 	padding-left: 15px
 	// height: 52px
 
+.navbar-left
+	margin-top: 2rem
+
+.navbar-right
+	margin-top: 2rem
+	a
+		font-weight: bold
+		color: white
+
+
+.nav-logo
+	float: left !important
+	max-width: 250px
+	margin: 5px
+	padding: 10px
+
+@media (max-width: 760px)
+	.nav-logo
+		display: none
+	.hero-img
+		height: 300px
+
+	.nav-logo-small
+		max-width: 175px
+		margin-top: -18px
 
 @media(max-width: 347px)
 	.navbar
@@ -85,25 +110,3 @@
 			overflow: hidden
 			display: none
 			opacity: 0
-// .scroll-nav-color
-// 	background: transparentize($theme, 0)
-// 	animation: .5s fadeNavigation ease-in-out
-// 	+shadow
-// @keyframes fadeNavigation
-// 	0%
-// 		transform: translateY(0)
-// 		background: transparentize($theme, 1)
-// 	// 50%
-// 	// 	transform: translateY(-100px)
-// 	// 	background: transparent
-// 	// 51%
-// 	// 	background: $brand
-// 	100%
-// 		background: transparentize($theme, 0)
-// 		transform: translateY(0)
-// 		+shadow
-// 		// background: $theme
-.brand-color
-	+shadow
-	background: $theme
-	animation: .3s fadein ease-in-out
