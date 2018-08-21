@@ -32,6 +32,6 @@ The Electric Feel base starts with one fresh banana, two cups of frozen pineappl
 
 {% include pullquote.html %}
 
-**I was so excited to get to try my bowl, and I’ll certainly be back for another one soon**. If you want to know more about Bungalow Bowls, including their menu, their hours, and the superfoods they use to craft these delicious creations, you can [visit their website here](https://www.bungalowbowls.com/).
+**I was so excited to get to try my bowl, and I’ll certainly be back for another one soon**. If you want to know more about Bungalow Bowls, including their menu, their hours, and the superfoods they use to craft these delicious creations, you can [visit their website here](https://www.bungalowbowls.com/). Mention this video at the time of ordering and receive 10% off until September 7th.
 
 If you have any other questions for me in the meantime, I’m always just a phone call or email away. I look forward to hearing from you soon.
