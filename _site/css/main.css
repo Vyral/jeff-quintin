@@ -1395,7 +1395,7 @@ html[xmlns] .flexslider .slides {
 
 .nav-logo {
   float: left !important;
-  max-width: 250px;
+  max-width: 300px;
   margin: 5px;
   padding: 10px; }
 
@@ -1407,8 +1407,8 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 175px;
-    margin-top: -18px; } }
+    max-width: 275px;
+    margin-top: -15px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;

@@ -1,6 +1,6 @@
 audit_header: false
 title: Ocean City Real Estate Video Blog with Jeff Quintin
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+description: Our mission at The Quintin Group is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Home Valuation
@@ -16,37 +16,38 @@ client:
   title:
   license_number:
   about_markdown: |
-    Our mission, desire, and goal is to assist all parties in accomplishing their goals and obtain a satisfied conclusion to the purchase or sale of their real estate. We make a positive difference in our client’s lives and are committed to our clients having “the best real estate experience they’ve ever had.”
-  market: Ocean City
+    We are proud to have our personal staff contribute to the process of selling and or buying your home. Our purpose is to assist you in getting your home sold and provide protection of your equity in the time frame you want with no inconvenience to you or your family.
+
+    Our staff has one function while they are working for you. This function is to “serve you” and make this your most professional selling and buying experience. We’ve asked each team member to acquaint themselves with you and your property and we want you to utilize each and every service that we provide.
+  market:
   brand: The Quintin Group
   brokerage: Keller Williams
-  address: 1 Atlantic Avenue, Ocean City, NJ 08226
   phone: 609-398-5333
   phone_type:
   phone2:
   phone2_type:
-  email: info@TheQuintinGroup.com
+  email: Info@TheQuintinGroup.com
   url: http://TheQuintinGroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://thequintingroup.com/tools-info/how-much-is-your-home-worth/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.jeffquintin.idxbroker.com/idx/featured
+  second_CTA_URL: http://thequintingroup.com/advanced-search/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: http://thequintingroup.com/tools-info/how-much-is-your-home-worth/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a Home?"
+    CTA_text2: "Search the entire MLS for your home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.jeffquintin.idxbroker.com/idx/featured
+    CTA_url2: http://thequintingroup.com/advanced-search/
 
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/006.jpg
@@ -70,7 +71,7 @@ lender:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/TheQuintinGroup
-  linkedin_url:
+  linkedin_url: https://www.linkedin.com/in/jeffquintinsuperteam/
   gplus_url:
   youtube_url: https://www.youtube.com/channel/UC9CUnF5stZlAwqT5N_KJ7_g
   twitter_url: http://twitter.com/JeffQuintin
@@ -82,19 +83,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Real Estate Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text:
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
