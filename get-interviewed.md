@@ -4,7 +4,7 @@ title: Get Interviewed
 permalink: /get-interviewed/
 ---
 
-<h2 class="recruiting">If you have seen our show, business spotlights, and you would like your business featured on our next show, sign up below!</h2>
+<h2 class="recruiting">If you have seen our show, Business Spotlight, and you would like your business featured on our next show, sign up below!</h2>
 
 <form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
 	<fieldset><label for="firstname">Name*</label> <input type="text" required="" name="name" />
