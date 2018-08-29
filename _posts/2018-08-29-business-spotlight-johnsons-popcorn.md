@@ -22,7 +22,9 @@ youtube_code: v8mCyBLZ7OQ
 
 {% include youtube.html %}
 
-<center>Have you ever tried Johnson’s Popcorn? If not, it’s time for you to take a trip to the boardwalk.</center>
+<center><em>Have you ever tried Johnson&rsquo;s Popcorn? If not, it&rsquo;s time for you to take a trip to the boardwalk.</em></center>
+
+&nbsp;
 
 On today’s Business Spotlight, we’re here on the boardwalk in Ocean City once again to check out another great local hot spot: Johnson’s Popcorn.
 
