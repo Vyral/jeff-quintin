@@ -28,7 +28,7 @@ youtube_code: v8mCyBLZ7OQ
 
 On today’s Business Spotlight, we’re here on the boardwalk in Ocean City once again to check out another great local hot spot: Johnson’s Popcorn.
 
-Johnson’s Popcorn has been in business since 1940, and has since opened two additional locations to facilitate their growth. **Their gift shop has apparel and gifts for all kinds of occasions, but the business’s true staple is one thing and one thing alone: popcorn**.
+Johnson’s Popcorn has been in business since 1940 and has since opened two additional locations to facilitate their growth. **Their gift shop has apparel and gifts for all kinds of occasions, but the business’s true staple is one thing and one thing alone: popcorn**.
 
 This boardwalk-famous treat is made fresh each day with love, care, and, of course, Johnson Popcorn’s special secret formula. To see what we mean, check out the behind-the-scenes look we filmed in their kitchen for today’s episode.
 
