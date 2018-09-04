@@ -22,7 +22,7 @@ youtube_code: GgZxGbW3Hhw
 
 {% include youtube.html %}
 
-Have you heard of The Farm Stand at 14th? In today’s episode of our “Business Spotlight” series, we will be checking out this great new spot on the boardwalk.
+<center>Have you heard of The Farm Stand at 14th? In today’s episode of our “Business Spotlight” series, we will be checking out this great new spot on the boardwalk.</center>
 
 Today on “Business Spotlight,” we’re taking a look inside a great new restaurant: The Farm Stand at 14th.&nbsp;
 
