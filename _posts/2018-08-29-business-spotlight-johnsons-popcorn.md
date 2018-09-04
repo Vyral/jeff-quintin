@@ -34,6 +34,6 @@ This boardwalk-famous treat is made fresh each day with love, care, and, of cour
 
 {% include pullquote.html %}
 
-This popcorn really is as good as it looks, so be sure to come on down to the boardwalk to taste it yourself. **You can find Johnson Popcorn’s menu and hours [right here](http://www.johnsonspopcorn.com/)**.
+This popcorn really is as good as it looks, so be sure to come on down to the boardwalk to taste it yourself. **You can find Johnson Popcorn’s menu and hours [right here](http://www.johnsonspopcorn.com/)**. Mention this video and receive a free party favor!
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
