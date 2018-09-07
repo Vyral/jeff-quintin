@@ -21,7 +21,7 @@ youtube_code: iUvSiVCahhg
 
 {% include youtube.html %}
 
-Have you been to Bob’s Grill yet? On today’s Business Spotlight, we’re bringing you a sneak peek into this boardwalk favorite.
+<center>Have you been to Bob’s Grill yet? On today’s Business Spotlight, we’re bringing you a sneak peek into this boardwalk favorite.</center>
 
 On today’s Business Spotlight, we’re featuring a delicious boardwalk favorite: Bob’s Grill.
 
