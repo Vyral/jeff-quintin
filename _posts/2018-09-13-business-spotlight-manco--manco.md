@@ -21,7 +21,9 @@ youtube_code: CXXYquz-ohA
 
 {% include youtube.html %}
 
-<center>Today I am trying some of the many pies that you can get at Ocean City's own Manco & Manco Pizza.</center>
+<center><em>Today I am trying some of the many pies that you can get at Ocean City's own Manco &amp; Manco Pizza.</em></center>
+
+&nbsp;
 
 On today's “Business Spotlight”, we're visiting the flagship Manco & Manco Pizza located at 900 Boardwalk here in Ocean City.
 
