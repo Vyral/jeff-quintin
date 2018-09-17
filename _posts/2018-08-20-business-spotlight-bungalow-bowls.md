@@ -24,7 +24,7 @@ youtube_code: iUoHbwvsvL8
 
 &nbsp;
 
-I’m headed back into town today for another great business spotlight. **Today we’re taking a closer look at Bungalow Bowls, the newest, hottest lunch spot here in Ocean City**.
+I’m headed back into town today for another great "Business Spotlight."&nbsp;**Today we’re taking a closer look at Bungalow Bowls, the newest, hottest lunch spot here in Ocean City**.
 
 I joined co-owners Erin and Brooke, who fell in love with acai bowls on the west coast and decided to bring that here to Ocean City, for a demonstration of how they make their “Electric Feel” bowl.
 
