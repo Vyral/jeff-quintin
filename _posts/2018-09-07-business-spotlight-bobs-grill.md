@@ -25,7 +25,7 @@ youtube_code: iUvSiVCahhg
 
 &nbsp;
 
-On today’s Business Spotlight, we’re featuring a delicious boardwalk favorite: Bob’s Grill.
+On today’s "Business Spotlight," we’re featuring a delicious boardwalk favorite: Bob’s Grill.
 
 To get a better idea of what this restaurant is all about, owner Bob Harbaugh met with us to give his take. According to Bob, it all began 65 years ago when his father bought him a beach stand. Now, decades later, what was once a beach stand has grown into a rather large, very well-loved restaurant.
 
