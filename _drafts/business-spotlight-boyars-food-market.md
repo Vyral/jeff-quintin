@@ -22,7 +22,7 @@ youtube_code: haCPPIo2U80
 
 {% include youtube.html %}
 
-On today’s “Business Spotlight” I am taking you to 13th and Asbury to show you Boyar’s Food Market.
+<center>On today’s “Business Spotlight” I am taking you to 13th and Asbury to show you Boyar’s Food Market.</center>
 
 If you're looking for quality food in an old-school butcher environment, then Boyar's Food Market at 1340 Asbury Avenue is the place to go. According to Gail, one of the owners, the market was first opened in 1942 by Louis and Mary Boyar. Since then, it has evolved into the wonderful place I’ll be highlighting in today’s “Business Spotlight.”
 
