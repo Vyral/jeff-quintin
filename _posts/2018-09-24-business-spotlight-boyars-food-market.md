@@ -38,6 +38,6 @@ Their takeout menu has many different items available, like soups, sandwiches, a
 
 This special sub was brought to Ocean City by Gail's business partners, Robert, Bobby, and Scott—it was their favorite. I can personally attest to it being absolutely delicious; you can definitely taste all the flavors.
 
-**Open daily at 9 a.m., Boyar's Market closes at 7:30 p.m. Sunday through Thursday and 8 p.m. on Fridays and Saturdays**. You can take a look at all their delicious menu items here.
+**Open daily at 9 AM, Boyar's Market closes at 7:30 PM Sunday through Thursday and 8 PM on Fridays and Saturdays**. [Click here](http://www.boyarsmarket.com/take-out.htm) if you'd like to take a look at all their delicious menu items.
 
 If you have any questions for me, please feel free to reach out to me by phone or email.
