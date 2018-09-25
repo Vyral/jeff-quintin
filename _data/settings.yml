@@ -21,7 +21,7 @@ client:
   name: Jeff Quintin
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     We are proud to have our personal staff contribute to the process of selling
     and or buying your home. Our purpose is to assist you in getting your home
     sold and provide protection of your equity in the time frame you want with
@@ -36,7 +36,7 @@ client:
   market:
   brand: The Quintin Group
   brokerage: Keller Williams
-  phone: 609-398-5333
+  phone: (609) 398-5333
   phone_type:
   phone2:
   phone2_type:
