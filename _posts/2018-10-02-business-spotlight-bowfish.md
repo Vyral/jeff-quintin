@@ -21,7 +21,9 @@ youtube_code: 5KbrwMCUDtI
 
 {% include youtube.html %}
 
-<center>Bowfish turns kids’ imaginations into reality, and today we’re going to show you how they do it.</center>
+<center><em>Bowfish turns kids&rsquo; imaginations into reality, and today we&rsquo;re going to show you how they do it.</em></center>
+
+&nbsp;
 
 As a father of three daughters, I’m always trying to make things special for my kids. That’s why on today’s "Business Spotlight," we’re featuring a great local business: Bowfish Kids.
 
