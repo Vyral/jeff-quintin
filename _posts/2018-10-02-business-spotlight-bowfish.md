@@ -37,6 +37,6 @@ During our behind-the-scenes look in Bowfish’s studio today, we got a glimpse 
 
 Seeing the experience they provide here at Bowfish was incredible. If you have kids of your own, Bowfish could be the perfect place to make your next special occasion a little more so.
 
-**You can learn more about Bowfish by [visiting their website](https://www.bowfishkids.com/)**.
+**You can learn more about Bowfish by [visiting their website](https://www.bowfishkids.com/){: target="_blank"}**.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
