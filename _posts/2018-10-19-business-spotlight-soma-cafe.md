@@ -23,7 +23,7 @@ youtube_code: Y6Pq9OzKe4w
 
 &nbsp;
 
-One of my favorite parts of being a Realtor is that I’m constantly out and about, interacting with our community. Today, to get a taste of our fine local eateries, I went to visit a local restaurant and see what they’re all about. **Today I’m at Soma Cafe for this episode of "Business Spotlight."**
+One of my favorite parts of being a Realtor is that I’m constantly out and about, interacting with our community. Today, to get a taste of our fine local eateries, I went to visit another local restaurant and see what they’re all about. **Today I’m at Soma Cafe for this episode of "Business Spotlight."**
 
 With comfort food, a healthy twist, and cool vibe, Soma Cafe in downtown Ocean City is the place to be. But first of all, what does “Soma” even mean? I sat down with the owner, Sam, to get some answers.
 
