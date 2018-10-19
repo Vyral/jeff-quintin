@@ -19,7 +19,9 @@ youtube_code: Y6Pq9OzKe4w
 
 {% include youtube.html %}
 
-<center>Where can you get a grilled cheese full of homemade goodness? Here at Soma Cafe.</center>
+<center><em>Where can you get a grilled cheese full of homemade goodness? Here at Soma Cafe.</em></center>
+
+&nbsp;
 
 One of my favorite parts of being a Realtor is that I’m constantly out and about, interacting with our community. Today, to get a taste of our fine local eateries, I went to visit a local restaurant and see what they’re all about. **Today I’m at Soma Cafe for this episode of "Business Spotlight."**
 
