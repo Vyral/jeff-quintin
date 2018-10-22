@@ -36,3 +36,5 @@ With comfort food, a healthy twist, and cool vibes, Soma Cafe in downtown Ocean 
 Perhaps one of the most popular items at the cafe, the Soma Grilled Cheese is made of organic whole-grain bread, homemade spreads (hummus, whipped goat cheese, ginger dressing), feta cheese, and some veggies. The cheeses are not only delicious but also healthier alternatives to normal grilled-cheese fare. After a quick grill on a panini press, the Soma Grilled Cheese is ready to be devoured.
 
 If you find yourself in downtown Ocean City, the Soma Cafe is definitely a place you’ll want to check out. You can [find their menu and hours here](https://www.facebook.com/pg/SomaCafeOC/about/?ref=page_internal){: target="_blank"}. **Stop in for some great food, great vibes, and a great atmosphere**.
+
+As always, if you have any real estate-related questions for me, don't hesitate to give me a call or send me an email. I'd be glad to help you.
